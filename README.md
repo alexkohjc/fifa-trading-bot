@@ -1,2 +1,2 @@
 # fifa-trading-bot
-Script that automates the identification and execution of arbitrage opportunities in the virtual FIFA stock market
+Script that web scrapes price information from fansites, scans entire marketplace (narrowed by criterias/filters) to identify and execute arbitrage opportunities in the virtual FIFA stock market (FIFA Ultimate Team)
